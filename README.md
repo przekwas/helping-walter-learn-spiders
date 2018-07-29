@@ -11,6 +11,7 @@ Happy Hacking!
 - [NodeJS](https://nodejs.org/en/download/) that comes with bundled with NPM
 - [Cmder](http://cmder.net/) for Windows or your Terminal for OSX
 - Understanding of [http://books.toscrape.com/](http://books.toscrape.com/) to see what data I'm scraping for testing this project
+_NEW_
 - [Git](https://git-scm.com/downloads) command line tools
 
 ### Running
@@ -29,5 +30,5 @@ Happy Hacking!
 	- If you get a merge conflict trying to do this step, either delete the directory and clone into a fresh one, create a new directory and clone the repo into it, or follow the steps to resolve the merge conflict if you changed my code and you tried to overwrite it with my old code when doing the `pull`.
 4. Run `npm install`
 5. Run `node test_scrape_to_text.js`
-6. You now have a .txt file with the title and price of every book written
+6. You now have a `.txt` file with the title and price of every book written
 7. Examine the code and file system module [(basic usage docs)](https://www.w3schools.com/nodejs/nodejs_filesystem.asp) I used and enjoy!
