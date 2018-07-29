@@ -1,0 +1,24 @@
+{
+  "name": "spider-crawling",
+  "version": "1.0.0",
+  "description": "Helping Walt and myself learn web crawling",
+  "main": "test_scrape_button.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "puppeteer": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przekwas/helping-walter-learn-spiders.git"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/przekwas/helping-walter-learn-spiders/issues"
+  },
+  "homepage": "https://github.com/przekwas/helping-walter-learn-spiders#readme"
+}
