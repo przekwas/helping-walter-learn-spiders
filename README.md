@@ -11,6 +11,7 @@ Happy Hacking!
 - [NodeJS](https://nodejs.org/en/download/) that comes with bundled with NPM
 - [Cmder](http://cmder.net/) for Windows or your Terminal for OSX
 - Understanding of [http://books.toscrape.com/](http://books.toscrape.com/) to see what data I'm scraping for testing this project
+
 _NEW_
 - [Git](https://git-scm.com/downloads) command line tools
 
