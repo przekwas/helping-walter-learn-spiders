@@ -8,7 +8,7 @@ Happy Hacking!
 
 ## Requirements
 - Code Editor of some kind, again, I reccomend [VS Code](https://code.visualstudio.com/)
-- [NodeJS](https://nodejs.org/en/download/) that comes with bundled with NPM
+- [NodeJS](https://nodejs.org/en/download/) that comes bundled with NPM
 - [Cmder](http://cmder.net/) for Windows or your Terminal for OSX
 - Understanding of [http://books.toscrape.com/](http://books.toscrape.com/) to see what data I'm scraping for testing this project
 
