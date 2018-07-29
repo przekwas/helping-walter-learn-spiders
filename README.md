@@ -11,6 +11,7 @@ Happy Hacking!
 - [NodeJS](https://nodejs.org/en/download/) that comes with bundled with NPM
 - [Cmder](http://cmder.net/) for Windows or your Terminal for OSX
 - Understanding of [http://books.toscrape.com/](http://books.toscrape.com/) to see what data I'm scraping for testing this project
+- [Git](https://git-scm.com/downloads) command line tools
 
 ### Running
 
@@ -20,3 +21,12 @@ Happy Hacking!
  4. Run `node test_scrape_simple.js` in Cmder/Terminal and it should save a screenshot for google.com as your first successful scrape!  
  5. Then run `node test_scrape_button.js` to see how to navigate to a different screen and get information there
  6. Run `node test_scrape_loop.js` to see how I made a loop to get every title/price on the first page on our testing website
+
+#### Continuing Project with File System Module and Git CLI
+1. `cd` into your project directory 
+2. Use `git checkout fs` to move into the new repo branch where I pushed the file system code
+3. Run `git pull`
+	- If you get a merge conflict trying to do this step, either delete the directory and clone into a fresh one, create a new directory and clone the repo into it, or follow the steps to resolve the merge conflict if you changed my code and you tried to overwrite it with my old code when doing the `pull`.
+4. Run `npm install`
+5. Run `node test_scrape_to_text.js`
+6. Examine the code and file system module [(basic usage docs)](https://www.w3schools.com/nodejs/nodejs_filesystem.asp) I used and enjoy!
