@@ -40,3 +40,5 @@ let scrape = async () => {
 scrape().then((value) => {
     console.log(value);
 });
+
+////*[@id="default"]/div/div/div/div/section/div[2]/ol/li[1]/article/div[1]/a/img
